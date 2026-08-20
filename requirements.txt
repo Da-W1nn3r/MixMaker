@@ -1,0 +1,11 @@
+ffmpeg-python
+soundfile
+numpy
+pandas
+librosa
+openl3
+umap-learn
+matplotlib
+mplcursors
+pyperclip
+scikit-learn

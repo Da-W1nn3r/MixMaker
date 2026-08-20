@@ -45,21 +45,10 @@ compare the similarity of two selected points).
 - Python 3.10+
 - [FFmpeg](https://ffmpeg.org/) installed and available on your `PATH`
 
-Python dependencies (no `requirements.txt` is currently checked in — install these
-manually):
+Install Python dependencies with:
 
 ```
-ffmpeg-python
-soundfile
-numpy
-pandas
-librosa
-openl3
-umap-learn
-matplotlib
-mplcursors
-pyperclip
-scikit-learn
+pip install -r requirements.txt
 ```
 
 ## Usage
